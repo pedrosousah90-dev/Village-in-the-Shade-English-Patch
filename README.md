@@ -17,6 +17,8 @@ This project ports an existing community English translation to the current Stea
 
 See the included README for detailed installation, verification, and restoration instructions.
 
+Known issues: Some character rendering issues may still occur, particularly in the name selection screen and certain text fields. These are known issues and may be fixed in a future update.
+
 ## Credits & Attribution
 
 The original English translation/mod was obtained from the community release shared by **Switch On The Deck**.
