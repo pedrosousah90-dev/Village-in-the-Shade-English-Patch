@@ -3,6 +3,7 @@
 Unofficial English translation patch for **Steam build 25311513 (v1.10)**.
 
 This project ports an existing community English translation to the current Steam build, preserving the v1.10 update and its changes.
+Work in progress: This translation is still being worked on, so bugs and text/character rendering issues may appear.
 
 ## Download
 
