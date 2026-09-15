@@ -30,7 +30,7 @@ The package includes tools to verify and restore the original game files.
 
 
 
-https://github.com/user-attachments/assets/4c973eaf-b6f9-4874-bbb2-aa40bcd0c12f
+https://github.com/user-attachments/assets/f504a1cd-644a-431b-bc2c-ecff62d6383d
 
 
 
