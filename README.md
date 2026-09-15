@@ -62,6 +62,14 @@ More fixes and improvements will come in future updates.
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/22d9d113-9e6f-443a-acc5-725817a84931" />
 
+### Title Screen
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0885a599-4887-421d-b4e0-ee5eb73e8b99" />
+
+### Save Data Screen
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2505cc5f-714a-463e-88af-e143e36c4c43" />
+
 
 ## Verify / Restore
 
