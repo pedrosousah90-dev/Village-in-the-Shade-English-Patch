@@ -19,14 +19,14 @@ See the included README for detailed installation, verification, and restoration
 
 ## Credits & Attribution
 
-The original English translation was created by the community and was distributed by **Switch On The Deck**.
+The original English translation/mod was obtained from the community release shared by **Switch On The Deck**.
 
-**Original source:**
-[Switch On The Deck — Village In The Shade Steam Deck Gameplay (English Mod) Tutorial](https://www.youtube.com/@SwitchOnTheDeck)
+**Original release/source:**
+https://www.youtube.com/watch?v=l8VMQp8un0M
 
 **v1.10 port/adaptation:**
 
-This project does **not** claim authorship of the original English translation.
+This project is an adaptation of the existing English translation for Steam build 25311513 (v1.10). It does not claim authorship of the original English translation.
 
 ## Disclaimer
 
