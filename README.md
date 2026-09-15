@@ -1,10 +1,8 @@
 # Village in the Shade — English Translation
 
-Unofficial English translation patch for the **Steam build 25311513 (v1.10)**.
+Unofficial English translation patch for **Steam build 25311513 (v1.10)**.
 
-This project ports the existing community English translation from Steam build 25094764 (v1.09) to the current v1.10 build while preserving the update's new content and changes.
-
-> **This is a community translation project. The English translation was originally created by multiple contributors; this release does not claim authorship of that translation.**
+This project ports an existing community English translation to the current Steam build, preserving the v1.10 update and its changes.
 
 ## Download
 
@@ -19,14 +17,17 @@ This project ports the existing community English translation from Steam build 2
 
 See the included README for detailed installation, verification, and restoration instructions.
 
-## Credits
+## Credits & Attribution
 
-**Original English translation:**
-[lista dos tradutores/contribuidores originais]
+The original English translation was created by the community and was distributed by **Switch On The Deck**.
 
-**v1.10 port / adaptation:**
-[seu nome/nick + demais pessoas que fizeram essa parte]
+**Original source:**
+[Switch On The Deck — Village In The Shade Steam Deck Gameplay (English Mod) Tutorial](https://www.youtube.com/@SwitchOnTheDeck)
+
+**v1.10 port/adaptation:**
+
+This project does **not** claim authorship of the original English translation.
 
 ## Disclaimer
 
-This is an unofficial fan-made translation project and is not affiliated with or endorsed by the game's developer or publisher.
+This is an unofficial fan-made project and is not affiliated with or endorsed by the game's developer or publisher.
