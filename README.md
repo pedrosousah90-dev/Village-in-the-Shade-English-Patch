@@ -44,6 +44,10 @@ Some character rendering issues may appear in the name selection screen.
 
 If the characters look incorrect, switching from **Hiragana to Katakana** using the **Aa** button will refresh the character set and fix the display.
 
+Some text may also be incomplete or cut off. During the v1.10 port, approximately **170 dialogue lines** were completed by referencing the original Japanese text and adapting the existing translation to fit the game's text boxes.
+
+Other minor text issues may still remain, and some lines may differ from the original translation due to fitting the available text space.
+
 More fixes and improvements will come in future updates.
 
 ## Screenshots
