@@ -26,6 +26,14 @@ This project ports the existing community English translation from Steam build *
 
 The package includes tools to verify and restore the original game files.
 
+## Installation & Test Video
+
+
+
+https://github.com/user-attachments/assets/4c973eaf-b6f9-4874-bbb2-aa40bcd0c12f
+
+
+
 ## What's Included
 
 - English dialogue, database text, menus, NPC names, and UI labels.
