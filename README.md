@@ -4,7 +4,7 @@ Unofficial English translation patch for **Steam build 25311513 (v1.10)**.
 
 This project ports the community English translation from Steam build **25094764 (v1.09)** to the current v1.10 build, rebuilt against that build's clean archives so the update's new content (including the new Simplified Chinese language slot, the extra font profile and the updated credits artwork) stays intact.
 
-Current package: `build25311513-translation-port-20260915-v9`
+Current package: `build25311513-translation-port-20260915-v10`
 
 > **Status:** playable start to finish. The text is complete and checked for rendering, and the sentences that the v1.09 translation cut off at the end of a page have been completed. The only known display issue is the name entry screen — see [Known Issues](#known-issues).
 
@@ -52,6 +52,7 @@ Only `data.dat` and `data\fairy_1_00.dat` are patched. The official `data\textur
 - Tips and item descriptions were re-wrapped to fit their boxes instead of overflowing, and the clinic sign's cut-off note was restored.
 - Menu and settings labels that appeared as empty boxes (leftover Japanese and full-width characters that the English font cannot draw) were replaced.
 - Unbalanced text markup and lost placeholders were checked table by table against the Japanese.
+- Spelling slips and duplicated words left in the v1.09 text were corrected ("wierdly", "I cant blame", "a way to to escape", and so on).
 
 ## Known Issues
 
