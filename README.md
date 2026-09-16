@@ -28,11 +28,7 @@ The package includes tools to verify and restore the original game files.
 
 ## Installation & Test Video
 
-
-
-https://github.com/user-attachments/assets/f504a1cd-644a-431b-bc2c-ecff62d6383d
-
-
+[https://youtu.be/odNLgg76V1A](https://www.youtube.com/watch?v=odNLgg76V1A)
 
 ## What's Included
 
