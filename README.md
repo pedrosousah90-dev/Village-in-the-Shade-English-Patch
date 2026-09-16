@@ -105,7 +105,7 @@ Please open an issue with:
 - It contains **reversible binary differences**, not game archives. No game file is redistributed here, and both patched archives keep their original size.
 - Your save files are not touched. A backup before testing is still a good idea.
 - The installer is a small unsigned Rust program, so antivirus software may flag it as an unknown publisher. Its full source and dependency lockfile are included in `source\patcher`, it makes no network connections, and it only reads and writes inside the game folder.
-- `VillageInTheShadePatcher.exe` SHA-256: `39df1971370bb86f89a468149b10b45eafda7c38184529bf8fdc84f43cab7954`
+- `VillageInTheShadePatcher.exe` SHA-256: `db4dfce403a44167532ffc38cd7823fb880f807ff49412e920d3844a574db5d2`
 - The SHA-256 of each release archive is published in its release notes.
 - The tools used to port the translation are included in `source\port-tools`.
 
