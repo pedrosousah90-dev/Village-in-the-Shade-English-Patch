@@ -75,8 +75,8 @@ Close the game before installing, verifying or restoring the translation.
 
 Please open an issue with:
 
-1. The package version printed by `Verify Translation.cmd`.
-2. A screenshot, or the text of the line and where it appears (character, place, time of day, event or quest).
+ A screenshot, or the text of the line and where it appears (character, place, time of day, event or quest).
+ And the version.
 
 ## Screenshots
 
